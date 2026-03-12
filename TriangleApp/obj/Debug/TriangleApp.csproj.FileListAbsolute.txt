@@ -1,0 +1,10 @@
+C:\Users\232909071094-9\Desktop\TriangleApp\TriangleApp\obj\Debug\TriangleApp.csproj.AssemblyReference.cache
+C:\Users\232909071094-9\Desktop\TriangleApp\TriangleApp\obj\Debug\TriangleApp.Properties.Resources.resources
+C:\Users\232909071094-9\Desktop\TriangleApp\TriangleApp\obj\Debug\TriangleApp.csproj.GenerateResource.cache
+C:\Users\232909071094-9\Desktop\TriangleApp\TriangleApp\obj\Debug\TriangleApp.csproj.CoreCompileInputs.cache
+C:\Users\232909071094-9\Desktop\TriangleApp\TriangleApp\bin\Debug\TriangleApp.exe.config
+C:\Users\232909071094-9\Desktop\TriangleApp\TriangleApp\bin\Debug\TriangleApp.exe
+C:\Users\232909071094-9\Desktop\TriangleApp\TriangleApp\bin\Debug\TriangleApp.pdb
+C:\Users\232909071094-9\Desktop\TriangleApp\TriangleApp\obj\Debug\TriangleApp.Form1.resources
+C:\Users\232909071094-9\Desktop\TriangleApp\TriangleApp\obj\Debug\TriangleApp.exe
+C:\Users\232909071094-9\Desktop\TriangleApp\TriangleApp\obj\Debug\TriangleApp.pdb
