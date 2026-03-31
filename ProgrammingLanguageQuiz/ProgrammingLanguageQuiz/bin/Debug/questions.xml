@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<quiz>
+	<topics>
+		<topic id="1" name="Основные операторы">
+			<levels>
+				<level id="1" name="Начальный" required_score="80">
+					<questions>
+						<question id="1" text="Что выведет следующий код? int a = 5; int b = 2; Console.WriteLine(a / b);">
+							<answers>
+								<answer text="2.5" is_correct="false" />
+								<answer text="2" is_correct="true" />
+								<answer text="3" is_correct="false" />
+								<answer text="Ошибка" is_correct="false" />
+							</answers>
+							<explanation>При делении целых чисел результат округляется в меньшую сторону. 5 / 2 = 2</explanation>
+							<image_path></image_path>
+						</question>
+
+						<question id="2" text="Какой оператор используется для сравнения двух значений в C#?">
+							<answers>
+								<answer text="=" is_correct="false" />
+								<answer text="==" is_correct="true" />
+								<answer text="!=" is_correct="false" />
+								<answer text="===" is_correct="false" />
+							</answers>
+							<explanation>Оператор == используется для сравнения двух значений на равенство.</explanation>
+							<image_path></image_path>
+						</question>
+
+						<question id="3" text="Что означает оператор '++'?">
+							<answers>
+								<answer text="Увеличение на 1" is_correct="true" />
+								<answer text="Уменьшение на 1" is_correct="false" />
+								<answer text="Умножение на 2" is_correct="false" />
+								<answer text="Сложение" is_correct="false" />
+							</answers>
+							<explanation>Оператор инкремента (++) увеличивает значение переменной на 1.</explanation>
+							<image_path></image_path>
+						</question>
+
+						<question id="4" text="Какой результат даст выражение: 10 % 3?">
+							<answers>
+								<answer text="3" is_correct="false" />
+								<answer text="1" is_correct="true" />
+								<answer text="0" is_correct="false" />
+								<answer text="3.33" is_correct="false" />
+							</answers>
+							<explanation>Оператор % возвращает остаток от деления. 10 / 3 = 3 (остаток 1)</explanation>
+							<image_path></image_path>
+						</question>
+
+						<question id="5" text="Как объявить целочисленную переменную в C#?">
+							<answers>
+								<answer text="int a = 5.5;" is_correct="false" />
+								<answer text="int a = 5;" is_correct="true" />
+								<answer text="int a = '5';" is_correct="false" />
+								<answer text="integer a = 5;" is_correct="false" />
+							</answers>
+							<explanation>int используется для хранения целых чисел.</explanation>
+							<image_path></image_path>
+						</question>
+
+						<question id="6" text="Что выведет код: bool isTrue = true; Console.WriteLine(!isTrue);">
+							<answers>
+								<answer text="true" is_correct="false" />
+								<answer text="false" is_correct="true" />
+								<answer text="1" is_correct="false" />
+								<answer text="0" is_correct="false" />
+							</answers>
+							<explanation>Оператор ! (НЕ) инвертирует булево значение. !true = false</explanation>
+							<image_path></image_path>
+						</question>
+
+						<question id="7" text="Какой оператор является логическим 'И'?">
+							<answers>
+								<answer text="||" is_correct="false" />
+								<answer text="&amp;&amp;" is_correct="true" />
+								<answer text="!" is_correct="false" />
+								<answer text="|" is_correct="false" />
+							</answers>
+							<explanation>&amp;&amp; - это оператор логического И (AND).</explanation>
+							<image_path></image_path>
+						</question>
+
+						<question id="8" text="Что такое тернарный оператор?">
+							<answers>
+								<answer text="if-else" is_correct="false" />
+								<answer text="?:" is_correct="true" />
+								<answer text="switch" is_correct="false" />
+								<answer text="for" is_correct="false" />
+							</answers>
+							<explanation>Тернарный оператор: условие ? значение1 : значение2</explanation>
+							<image_path></image_path>
+						</question>
+
+						<question id="9" text="Какой результат: int x = 5; x += 3; Console.WriteLine(x);">
+							<answers>
+								<answer text="5" is_correct="false" />
+								<answer text="3" is_correct="false" />
+								<answer text="8" is_correct="true" />
+								<answer text="15" is_correct="false" />
+							</answers>
+							<explanation>x += 3 эквивалентно x = x + 3. 5 + 3 = 8</explanation>
+							<image_path></image_path>
+						</question>
+
+						<question id="10" text="Какой оператор используется для проверки типа объекта?">
+							<answers>
+								<answer text="is" is_correct="true" />
+								<answer text="as" is_correct="false" />
+								<answer text="typeof" is_correct="false" />
+								<answer text="instanceof" is_correct="false" />
+							</answers>
+							<explanation>Оператор is проверяет совместимость объекта с типом.</explanation>
+							<image_path></image_path>
+						</question>
+					</questions>
+				</level>
+
+				<level id="2" name="Средний" required_score="80">
+					<questions>
+						<question id="11" text="Что выведет: int a = 5, b = 10; int c = a++ + b; Console.WriteLine(c);">
+							<answers>
+								<answer text="15" is_correct="true" />
+								<answer text="16" is_correct="false" />
+								<answer text="14" is_correct="false" />
+								<answer text="Ошибка" is_correct="false" />
+							</answers>
+							<explanation>a++ сначала возвращает 5, затем увеличивает a. 5 + 10 = 15</explanation>
+							<image_path></image_path>
+						</question>
+
+						<question id="12" text="Какой результат: int x = 5; Console.WriteLine(++x);">
+							<answers>
+								<answer text="5" is_correct="false" />
+								<answer text="6" is_correct="true" />
+								<answer text="Ошибка" is_correct="false" />
+								<answer text="0" is_correct="false" />
+							</answers>
+							<explanation>Префиксный инкремент сначала увеличивает x, затем возвращает значение.</explanation>
+							<image_path></image_path>
+						</question>
+
+						<question id="13" text="Что выведет: int a = 7, b = 3; Console.WriteLine(a / b + ' ' + a % b);">
+							<answers>
+								<answer text="2.33 1" is_correct="false" />
+								<answer text="2 1" is_correct="true" />
+								<answer text="3 1" is_correct="false" />
+								<answer text="2 2" is_correct="false" />
+							</answers>
+							<explanation>Целочисленное деление: 7/3=2, остаток: 7%3=1</explanation>
+							<image_path></image_path>
+						</question>
+
+						<question id="14" text="Какое значение примет переменная: int x = (5 > 3) ? 10 : 20;">
+							<answers>
+								<answer text="10" is_correct="true" />
+								<answer text="20" is_correct="false" />
+								<answer text="Ошибка" is_correct="false" />
+								<answer text="0" is_correct="false" />
+							</answers>
+							<explanation>5 > 3 истинно, поэтому выбирается первое значение 10</explanation>
+							<image_path></image_path>
+						</question>
+
+						<question id="15" text="Какой результат: int a = 10; int b = a &lt;&lt; 1; Console.WriteLine(b);">
+							<answers>
+								<answer text="20" is_correct="true" />
+								<answer text="5" is_correct="false" />
+								<answer text="11" is_correct="false" />
+								<answer text="101" is_correct="false" />
+							</answers>
+							<explanation>Сдвиг влево на 1 бит эквивалентен умножению на 2: 10 * 2 = 20</explanation>
+							<image_path></image_path>
+						</question>
+
+						<question id="16" text="Что выведет: double x = 10.0 / 3.0; Console.WriteLine(x);">
+							<answers>
+								<answer text="3.33333333333333" is_correct="true" />
+								<answer text="3" is_correct="false" />
+								<answer text="3.33" is_correct="false" />
+								<answer text="Ошибка" is_correct="false" />
+							</answers>
+							<explanation>Деление вещественных чисел дает вещественный результат</explanation>
+							<image_path></image_path>
+						</question>
+					</questions>
+				</level>
+
+				<level id="3" name="Сложный" required_score="80">
+					<questions>
+						<question id="17" text="Что выведет: int a = 5; int b = a++ + ++a; Console.WriteLine(b);">
+							<answers>
+								<answer text="12" is_correct="true" />
+								<answer text="11" is_correct="false" />
+								<answer text="10" is_correct="false" />
+								<answer text="13" is_correct="false" />
+							</answers>
+							<explanation>a++ возвращает 5 (a=6), ++a возвращает 7 (a=7), сумма 12</explanation>
+							<image_path></image_path>
+						</question>
+
+						<question id="18" text="Какой результат: bool a = true, b = false; bool c = a ^ b; Console.WriteLine(c);">
+							<answers>
+								<answer text="true" is_correct="true" />
+								<answer text="false" is_correct="false" />
+								<answer text="Ошибка" is_correct="false" />
+							</answers>
+							<explanation>XOR возвращает true, когда операнды разные</explanation>
+							<image_path></image_path>
+						</question>
+
+						<question id="19" text="Что выведет: int x = 10; Console.WriteLine(x &gt;&gt; 1);">
+							<answers>
+								<answer text="5" is_correct="true" />
+								<answer text="20" is_correct="false" />
+								<answer text="0" is_correct="false" />
+								<answer text="Ошибка" is_correct="false" />
+							</answers>
+							<explanation>Сдвиг вправо на 1 бит эквивалентен делению на 2: 10 / 2 = 5</explanation>
+							<image_path></image_path>
+						</question>
+
+						<question id="20" text="Какое значение: int x = 7; Console.WriteLine(~x);">
+							<answers>
+								<answer text="7" is_correct="false" />
+								<answer text="-7" is_correct="false" />
+								<answer text="-8" is_correct="true" />
+								<answer text="0" is_correct="false" />
+							</answers>
+							<explanation>Побитовое НЕ инвертирует все биты, ~7 = -8</explanation>
+							<image_path></image_path>
+						</question>
+					</questions>
+				</level>
+			swed</levels>
+		</topic>
+	</topics>
+</quiz>

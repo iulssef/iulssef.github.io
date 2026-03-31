@@ -1,0 +1,13 @@
+C:\Users\Александр\Desktop\ProgrammingLanguageQuiz\ProgrammingLanguageQuiz\bin\Debug\ProgrammingLanguageQuiz.exe.config
+C:\Users\Александр\Desktop\ProgrammingLanguageQuiz\ProgrammingLanguageQuiz\bin\Debug\ProgrammingLanguageQuiz.exe
+C:\Users\Александр\Desktop\ProgrammingLanguageQuiz\ProgrammingLanguageQuiz\bin\Debug\ProgrammingLanguageQuiz.pdb
+C:\Users\Александр\Desktop\ProgrammingLanguageQuiz\ProgrammingLanguageQuiz\obj\Debug\ProgrammingLanguageQuiz.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\ProgrammingLanguageQuiz\ProgrammingLanguageQuiz\obj\Debug\ProgrammingLanguageQuiz.Properties.Resources.resources
+C:\Users\Александр\Desktop\ProgrammingLanguageQuiz\ProgrammingLanguageQuiz\obj\Debug\ProgrammingLanguageQuiz.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\ProgrammingLanguageQuiz\ProgrammingLanguageQuiz\obj\Debug\ProgrammingLanguageQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\ProgrammingLanguageQuiz\ProgrammingLanguageQuiz\obj\Debug\ProgrammingLanguageQuiz.exe
+C:\Users\Александр\Desktop\ProgrammingLanguageQuiz\ProgrammingLanguageQuiz\obj\Debug\ProgrammingLanguageQuiz.pdb
+C:\Users\Александр\Desktop\ProgrammingLanguageQuiz\ProgrammingLanguageQuiz\obj\Debug\ProgrammingLanguageQuiz.exe.config
+C:\Users\Александр\Desktop\ProgrammingLanguageQuiz\ProgrammingLanguageQuiz\obj\Debug\ProgrammingLanguageQuiz.Form1.resources
+C:\Users\Александр\Desktop\ProgrammingLanguageQuiz\ProgrammingLanguageQuiz\obj\Debug\ProgrammingLanguageQuiz.GameForm.resources
+C:\Users\Александр\Desktop\ProgrammingLanguageQuiz\ProgrammingLanguageQuiz\bin\Debug\questions.xml
