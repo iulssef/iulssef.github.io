@@ -1,0 +1,10 @@
+C:\Users\Александр\Desktop\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\Game\Game\obj\Debug\PicturePuzzleGame.Form1.resources
+C:\Users\Александр\Desktop\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Александр\Desktop\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Александр\Desktop\Game\Game\bin\Debug\Game.exe
+C:\Users\Александр\Desktop\Game\Game\bin\Debug\Game.pdb
+C:\Users\Александр\Desktop\Game\Game\obj\Debug\Game.exe
+C:\Users\Александр\Desktop\Game\Game\obj\Debug\Game.pdb
